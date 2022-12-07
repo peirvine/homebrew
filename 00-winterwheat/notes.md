@@ -11,7 +11,7 @@
 - 1 Cinnamon Stick - 15 min
 - 1 oz Sweet Orange Peel - 5mins
 - 1 lb clover honey - flame out
-- 2 Cinnamon Sticks - 2 weeks before bottling
+- 4 Cinnamon Sticks - 1 week, 1 day before bottling
 ### Yeast: 
 - Wyeast 1010 american wheat 
 
