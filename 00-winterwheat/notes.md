@@ -17,3 +17,9 @@
 
 ### Starting Gravity:
 - 1.050
+
+### Final Gravity:
+- 1.010
+
+### ABV
+- 5.25 - a little higher as we already added the sugar before measuring
